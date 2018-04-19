@@ -1,1 +1,0 @@
-var link_curriculum = "https://drive.google.com/file/d/1AiKgKMx6ArI3yc2d2mBgTMRxDmYcMkV_/view?usp=sharing";
