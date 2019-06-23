@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d8737b4-c8b4-46c1-b7a0-f63298edcd4e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/braitmin.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -36,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="134" column="30" selection-start-line="134" selection-start-column="30" selection-end-line="134" selection-end-column="30" />
+            <state relative-caret-position="120">
+              <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -50,7 +50,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
+            <state relative-caret-position="72">
               <caret line="3" column="13117" selection-start-line="3" selection-start-column="13117" selection-end-line="3" selection-end-column="13117" />
             </state>
           </provider>
@@ -59,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10132">
+            <state relative-caret-position="14304">
               <caret line="596" column="7" selection-start-line="596" selection-start-column="3" selection-end-line="596" selection-end-column="7" />
             </state>
           </provider>
@@ -100,6 +100,9 @@
       <find>fa-</find>
       <find>imag</find>
       <find>curric</find>
+      <find>educa</find>
+      <find>form</find>
+      <find>delegado</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -163,7 +166,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,6 +193,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,21 +203,22 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553106526608" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Portatil\Documents\GitHub\portfolio\images" />
-      <recent name="C:\Users\BBDD\Desktop\WebAlberto\images" />
-      <recent name="C:\Users\Matrix\Desktop\Nueva carpeta" />
-      <recent name="C:\Users\Matrix\Desktop\Nueva carpeta\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Portatil\Documents\GitHub\portfolio\images" />
       <recent name="C:\Users\BBDD\Desktop\WebAlberto" />
       <recent name="C:\Users\BBDD\Desktop\WebAlberto\assets" />
       <recent name="C:\Users\BBDD\Desktop\WebAlberto\Utilidades" />
+      <recent name="C:\Users\BBDD\Desktop\WebAlberto\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GitHub\portfolio\images" />
+      <recent name="E:\Adobe Premiere" />
+      <recent name="E:\" />
+      <recent name="C:\Users\Portatil\Documents\GitHub\portfolio\images" />
       <recent name="C:\Users\BBDD\Desktop\WebAlberto\images" />
     </key>
   </component>
@@ -339,11 +343,14 @@
       <workItem from="1553098088347" duration="421000" />
       <workItem from="1553099612596" duration="85000" />
       <workItem from="1553099744951" duration="5940000" />
+      <workItem from="1561231642230" duration="1614000" />
+      <workItem from="1561288240316" duration="217000" />
+      <workItem from="1561288474554" duration="3877000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53035000" />
+    <option name="totallyTimeSpent" value="58743000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -355,10 +362,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3517398" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35142255" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Learn" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -376,7 +383,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32934782" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.17348608" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.17279822" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -438,16 +445,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1441c449-0156-4ae0-b484-6f35b76259e6/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/stubs/standard/standard_0.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="1164" column="9" selection-start-line="1164" selection-start-column="9" selection-end-line="1164" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1441c449-0156-4ae0-b484-6f35b76259e6/console.sql" />
+    <entry file="jar://$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/stubs/standard/standard_0.php" />
     <entry file="file://$PROJECT_DIR$/assets/js/prueba.js" />
     <entry file="file://$PROJECT_DIR$/images/LogoEtsisi.png" />
     <entry file="file://$PROJECT_DIR$/images/logo-Samsung1.png" />
@@ -455,26 +454,6 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/send_email.php" />
-    <entry file="file://$PROJECT_DIR$/images/instacopy-min.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="13117" selection-start-line="3" selection-start-column="13117" selection-end-line="3" selection-end-column="13117" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10132">
-          <caret line="596" column="7" selection-start-line="596" selection-start-column="3" selection-end-line="596" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/ie9.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="uml://JavaScript-modules-diagram/C:/Users/Portatil/Documents/GitHub/portfolio/index.html">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -501,11 +480,12 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.220976491862568" x="284.4253052122262" y="175.91676540284357" />
+          <settings layout="Hierarchic Group" zoom="1.220976491862568" x="284.0" y="176.0" />
           <SelectedNodes />
           <Categories>
             <Category>All</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
           <VISIBILITY>Details</VISIBILITY>
         </state>
       </provider>
@@ -519,13 +499,34 @@
     <entry file="file://$PROJECT_DIR$/images/idiomas.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/sap-logo-min.jpg">
+    <entry file="file://$PROJECT_DIR$/images/sap-logo-min.jpg" />
+    <entry file="file://$PROJECT_DIR$/images/instacopy-min.jpg">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="13117" selection-start-line="3" selection-start-column="13117" selection-end-line="3" selection-end-column="13117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14304">
+          <caret line="596" column="7" selection-start-line="596" selection-start-column="3" selection-end-line="596" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/ie9.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/Adobe Premiere/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="134" column="30" selection-start-line="134" selection-start-column="30" selection-end-line="134" selection-end-column="30" />
+        <state relative-caret-position="120">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
         </state>
       </provider>
     </entry>
